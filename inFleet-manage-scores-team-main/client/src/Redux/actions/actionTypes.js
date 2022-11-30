@@ -1,0 +1,6 @@
+export const GET_ALL_TEAMS = "GET_ALL_TEAMS";
+export const SET_EXIST_TEAMS = "SET_EXIST_TEAMS";
+export const CREATE_NEW_TEAM = "CREATE_NEW_TEAM";
+export const UPDATE_EXIST_TEAM = "UPDATE_EXIST_TEAM";
+export const REMOVE_SCORE_TEAM = "REMOVE_SCORE_TEAM";
+
